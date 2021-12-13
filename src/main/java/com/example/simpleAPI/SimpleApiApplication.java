@@ -11,6 +11,7 @@ import java.util.concurrent.atomic.AtomicLong;
 @SpringBootApplication
 @RestController
 
+//Simple API
 public class SimpleApiApplication {
 
 	public static void main(String[] args) {
